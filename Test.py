@@ -1,5 +1,5 @@
 # 1. Imprimir texto (print)
-print("¡Hola, mundo!")
+print("¡Hola, friend!")
 print("Mi nombre es", "VS Code")
 
 # 2. Variables
